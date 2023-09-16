@@ -10,5 +10,8 @@ __license__ = "Unlicense"
 
 
 
+
+
+
 def main(product):
     print(f"{product.name}   {product.price}")
